@@ -6,7 +6,7 @@
   
 ## Welcome
 
-I was born in Hartfurd, Connecticut, grew up in San Antonio, Texas,
+I was born in Hartford, Connecticut, grew up in San Antonio, Texas,
 received a Masters in Computer Science from [Indiana University], and currently live in Seattle, Washington.
 
 ## Employment
@@ -44,6 +44,10 @@ Ticket systems
 Quote aggregator
 
 Project and file management software
+
+## Contact
+
+I can be reached via email at <contact@baldinger.me>
 
 
 [Indiana University]: https://iu.edu
