@@ -1,9 +1,7 @@
-<style>
-  img {float:left}
-</style>
-
+<p align="center">
 ![Headshot](oren_headshot.jpg?raw=true)
-
+</p
+  
 ## Welcome
 
 I was born in Hartfurd, Connecticut, grew up in San Antonio, Texas,
