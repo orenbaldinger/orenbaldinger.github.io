@@ -22,7 +22,7 @@ I have worked for 10 years as lead full-stack software developer and small-busin
 
 ## Professional Experience
 
-My work has required fluency in Python, Java, Natural Language Processing, Machine and Deep Learning, SQL, .NET, C#, IT and internet technologies, and GDPR/PCI/HIPAA knowledge.
+My work has required fluency in Python, Java, Natural Language Processing, Machine and Deep Learning, SQL, .NET, C#, infrastructure and internet technologies, and GDPR/PCI/HIPAA knowledge.
 
 I have designed and implemented JSON schemas and validators.
 
