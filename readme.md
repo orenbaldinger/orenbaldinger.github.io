@@ -23,27 +23,15 @@ My work has required fluency in Python, Java, Natural Language Processing, SQL, 
 
 I have designed and implemented JSON schemas and validators.
 
-I have written high-performance data-processing pipelines.
+I have written high-performance data, document, and file processing pipelines.
 
-I have designed, developed, and maintained over many years complete web applications wrtten in PHP, MySQL, JavaScript, HTML, CSS, SaaS, and Authorize.net. 
+I have designed, developed, and maintained over many years complete web applications wrtten in PHP, MySQL, and JavaScript. 
 
-I have maintained and expanded on existing software projects written in Python, C#, VB.NET, and PHP. 
+I have maintained, taken over, and expanded existing software projects written in Python, C#, VB.NET, and PHP. 
 
-I have written and consumed APIs, and built OCR and document processing applications. 
+I have written and documented public APIs, built ecommerce applications, and created reporting platforms.
 
-I am experienced in refactoring, and writing secure, maintainable, and testable code. I am comfortable with Docker, Typescript, APIs, TSQL, UML, OAUTH, Selenium, Unit Testing, and Agile development strategies.
-
-## Projects
-
-NLP-JSON
-
-Data pipelines
-
-Ticket systems
-
-Quote aggregator
-
-Project and file management software
+I am experienced in refactoring, and writing secure, maintainable, and testable code. I am comfortable with Docker, Typescript, UML, Bash, OAUTH, Selenium, Unit Testing, and Agile development strategies.
 
 ## Contact
 
