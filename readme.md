@@ -18,7 +18,7 @@ I currently am employed by [Conversica, Inc.](https://conversica.com), as a soft
 
 I have worked as a Research Assistant under [Damir Cavar](https://damir.cavar.me/) at [Indiana University].
 
-I was employed for 10 years as lead full-stack software developer and small-business contractor and consultant by [Comsite International, Inc](https://www.comsite.net). 
+I have worked for 10 years as lead full-stack software developer and small-business contractor and consultant by [Comsite International, Inc](https://www.comsite.net). 
 
 ## Professional Experience
 
