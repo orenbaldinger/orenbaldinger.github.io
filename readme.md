@@ -7,15 +7,15 @@
 ## Welcome
 
 I was born in Hartfurd, Connecticut, grew up in San Antonio, Texas,
-received a MS in Computer Science from Indiana University, and currently live in Seattle, Washington.
+received a MS in Computer Science from [Indiana University], and currently live in Seattle, Washington.
 
 ## Employment
 
-I currently am employed by Conversica, Inc., as a software development engineer.
+I currently am employed by [Conversica, Inc.](https://conversica.com), as a software development engineer.
 
-I have worked as a Research Assistant under Damir Cavar at Indiana University.
+I have worked as a Research Assistant under [Damir Cavar](https://damir.cavar.me/) at [Indiana University].
 
-I was employed for 10 years as a full-stack software developer and small-business contractor and consultant by Comsite International. 
+I was employed for 10 years as a full-stack software developer and small-business contractor and consultant by [Comsite International, Inc](https://www.comsite.net). 
 
 ## Professional Experience
 
@@ -44,3 +44,6 @@ Ticket systems
 Quote aggregator
 
 Project and file management software
+
+
+[Indiana University]: https://iu.edu
