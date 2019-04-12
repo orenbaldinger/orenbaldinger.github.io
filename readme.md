@@ -1,6 +1,6 @@
 ## Welcome
 
-This site is all about me, Oren Baldinger. I was born in Hartfurd, Connecticut, grew up in San Antonio, Texas,
+I was born in Hartfurd, Connecticut, grew up in San Antonio, Texas,
 received a MS in Computer Science from Indiana University, and currently live in Seattle, Washington.
 
 ## Employment
