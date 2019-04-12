@@ -1,6 +1,8 @@
-<p align="center">
+<style>
+  img {float: left;margin-right:10px}  
+</style>
+
 ![Headshot](oren_headshot.jpg?raw=true)
-</p
   
 ## Welcome
 
