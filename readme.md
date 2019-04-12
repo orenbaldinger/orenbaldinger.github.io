@@ -1,3 +1,5 @@
+![Headshot](oren_headshot.jpg?raw=true)
+
 ## Welcome
 
 I was born in Hartfurd, Connecticut, grew up in San Antonio, Texas,
