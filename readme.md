@@ -45,6 +45,8 @@ Quote aggregator
 
 Project and file management software
 
+## Contact
 
+I can be reached via email at <contact-web@baldinger.me>
 
 [Indiana University]: https://iu.edu
