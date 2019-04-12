@@ -28,6 +28,8 @@ I have designed and implemented JSON schemas and validators.
 
 I have written high-performance data, document, and file processing pipelines.
 
+I have built software systems solo, from the ground up, I have managed others, and been a member of teams.
+
 I have designed, developed, and maintained over many years complete web applications wrtten in PHP, MySQL, and JavaScript. 
 
 I have maintained, taken over, and expanded existing software projects written in Python, C#, VB.NET, Java, and PHP. 
