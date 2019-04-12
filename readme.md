@@ -2,6 +2,7 @@
   img {float: left;margin:23px 10px 40px 0px;width:295px;height:360.85px;border:1px solid #000}
   #banner {right:0%}
   #banner .fork {display:none}
+  section {padding-top:10px}
 </style>
 
 ![Headshot](oren_headshot.jpg?raw=true)
