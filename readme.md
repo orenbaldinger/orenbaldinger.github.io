@@ -1,3 +1,7 @@
+<style>
+  img {float:left}
+</style>
+
 ![Headshot](oren_headshot.jpg?raw=true)
 
 ## Welcome
