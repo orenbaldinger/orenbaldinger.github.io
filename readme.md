@@ -27,7 +27,7 @@ I have written high-performance data, document, and file processing pipelines.
 
 I have designed, developed, and maintained over many years complete web applications wrtten in PHP, MySQL, and JavaScript. 
 
-I have maintained, taken over, and expanded existing software projects written in Python, C#, VB.NET, and PHP. 
+I have maintained, taken over, and expanded existing software projects written in Python, C#, VB.NET, Java, and PHP. 
 
 I have written and documented public APIs, built ecommerce applications, and created reporting platforms.
 
