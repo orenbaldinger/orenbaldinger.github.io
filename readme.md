@@ -1,5 +1,5 @@
 <style>
-  img {float: left;margin-right:10px}  
+  img {float: left;margin:23px 10px 40px 0px;width:295px;height:360.85px;border:1px solid #000}  
 </style>
 
 ![Headshot](oren_headshot.jpg?raw=true)
