@@ -7,8 +7,14 @@
   .wrapper {top:-35px}
   nav {top:181px}
   
-  @print, screen, and (max-width: 720px)
-  header {min-height:80px}
+  @media (max-width: 720px) {
+    header {min-height:80px}
+  }
+  
+  @media (max-width:400px) {
+    header {min-height:60px}
+    img {float:none;margin:auto;display:inline-block}
+  }
 </style>
 
 ![Headshot](oren_headshot.jpg?raw=true)
