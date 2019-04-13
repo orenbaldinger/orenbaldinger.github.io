@@ -1,6 +1,6 @@
 <style>
   img {float:left;margin:23px 10px 40px 0px;width:295px;height:360.85px;border:1px solid #000}
-  header {padding:25px 20px 0px}
+  header {padding:25px 20px 0px;min-height:95px}
   #banner {right:0%; height:26px}
   #banner .fork {display:none}
   section {padding-top:10px}
