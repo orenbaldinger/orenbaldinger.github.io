@@ -2,12 +2,11 @@
   img {float:left;margin:23px 10px 40px 0px;width:295px;height:360.85px;border:1px solid #000}
   header {padding:25px 0 0;min-height:95px}
   #banner {right:0%; height:26px}
-  #banner .fork {display:none}
+  #banner .fork, #banner #logo {display:none}
   section {padding-top:10px;padding-bottom:20px}
   .wrapper {top:-35px}
   nav {top:181px}
   body {min-width:350px}
-  #banner #logo {display:none}
   
   @media (max-width: 720px) {
     header {min-height:80px}
