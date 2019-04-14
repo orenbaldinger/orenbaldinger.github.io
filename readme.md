@@ -7,6 +7,7 @@
   .wrapper {top:-35px}
   nav {top:181px}
   body {min-width:350px}
+  span#logo {display:none}
   
   @media (max-width: 720px) {
     header {min-height:80px}
