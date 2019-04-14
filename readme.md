@@ -3,7 +3,7 @@
   header {padding:25px 0 0;min-height:95px}
   #banner {right:0%; height:26px}
   #banner .fork {display:none}
-  section {padding-top:10px}
+  section {padding-top:10px;padding-bottom:20px}
   .wrapper {top:-35px}
   nav {top:181px}
   body {min-width:350px}
